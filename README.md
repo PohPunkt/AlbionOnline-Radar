@@ -9,4 +9,4 @@
  1. Player radar
  2. Resources and mob radar (possible bugs)
 # Known issues
-Might not work on windows 11 xD
+Might not work on windows XP xD
