@@ -12,5 +12,5 @@
 # Known issues
 Might not work on windows XP xD
 # Update Log
-  #1.5.1.1:
+  Version 1.5.1.1:
   Add Update Log, big bug fix
