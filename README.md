@@ -1,10 +1,13 @@
 # AlbionOnline-Radar
+![albion-logo](https://github.com/PohPunkt/AlbionOnline-Radar/assets/95185796/b7c9301a-801d-4cc5-ad56-25dc7437a4b4)
 
 # How to use
   1. Download and extract
   2. Launch AlOnRadar.exe
-  3. Choose convenient settings
-  4. Launch Albion and play
+  4. Launch Albion
+  5. Press Insert
+  6. Select the settings you want
+  7. Play
 # Features
  1. Full undetected (100% no ban)
  2. Player radar (full information)
@@ -13,6 +16,4 @@
 If app not run download Python and add to PATH: https://www.python.org/downloads/
 
 Might not work on windows XP xD
-# Update Log
-  Version 1.5.1.1:
-  Add Update Log, big bug fix
+
