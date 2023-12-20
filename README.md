@@ -15,5 +15,7 @@
 # Known issues
 If app not run download Python and add to PATH: https://www.python.org/downloads/
 
+I have exams at university right now, so there won't be any major updates for a while.
+
 Might not work on windows XP xD
 
