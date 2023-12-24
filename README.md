@@ -1,6 +1,7 @@
-# AlbionOnline-Radar
+# AlbionOnline-Radar [leaked]
 ![albion-logo](https://github.com/PohPunkt/AlbionOnline-Radar/assets/95185796/b7c9301a-801d-4cc5-ad56-25dc7437a4b4)
-
+# Information
+This is a leaked version of a paid cheat. I was able to find its source code and continue to modify it and distribute it for free
 # How to use
   1. Download and extract
   2. Launch AlOnRadar.exe
